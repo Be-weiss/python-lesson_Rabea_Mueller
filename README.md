@@ -1,6 +1,6 @@
 # Mein erstes Git Repostorium
 
-Hier liegen meine Jupyter Notebooks
+## Hier liegen meine Jupyter Notebooks
 
-- Rabea Müller
-- Datum: 2021-01-29
+- **Rabea Müller**
+- Datum: 2021-01-29, Tuesday
